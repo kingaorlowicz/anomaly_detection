@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+dataset/
+artifacts/
+dataset_notebook_demo/
+artifacts_notebook_demo/
+tmp_smoke_dataset/
+tmp_smoke_artifacts/
